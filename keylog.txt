@@ -1,0 +1,1 @@
+hi[Key.caps_lock][Key.shift][Key.tab][Key.caps_lock][Key.backspace][Key.shift_r][Key.left][Key.left][Key.delete][Key.backspace]4[Key.enter]
